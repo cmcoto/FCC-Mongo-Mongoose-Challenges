@@ -1,2 +1,2 @@
-# FCC-Mongo-Mongoose-Challenges
-FCC Mongo &amp; Mongoose Challenges
+FCC Mongo & Mongoose Challenges
+===============================
